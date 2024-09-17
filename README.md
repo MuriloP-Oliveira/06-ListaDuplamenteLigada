@@ -11,6 +11,6 @@ Ao concluir esta atividade você deverá ter compreendido os seguintes conceitos
 
 Faça um **fork** deste repositório e realize as seguintes atividades: 
 
-- [ ] Implemente a função excluirUltimoElemento
-- [ ] Implemente a função excluirPrimeiroElemento
-- [ ] Implemente a função exibirReverso
+- [X] Implemente a função excluirUltimoElemento
+- [X] Implemente a função excluirPrimeiroElemento
+- [X] Implemente a função exibirReverso
